@@ -1,2 +1,2 @@
-# mtc-backend-dev
- python Code for MTC with file main.py
+This is a dev python repository is for backend developer. 
+The infra was last modified by: Aleksandar Cvetkovic
